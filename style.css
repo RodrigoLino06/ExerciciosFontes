@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Shadows+Into+Light&display=swap');
+p{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+div{
+    border: solid 3px #f012fd;
+    padding: 10px 20px 5px 12px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 25%;
+}
